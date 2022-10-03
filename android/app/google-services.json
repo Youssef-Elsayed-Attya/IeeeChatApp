@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1031092057673",
+    "project_id": "ieeechatapp",
+    "storage_bucket": "ieeechatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031092057673:android:5b06d08530a0875a6eb198",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031092057673-5jaodgtd49v31dofmi14am4au4rfim6u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatapp",
+            "certificate_hash": "4ea6b0c816661843b0a49845fc567905bc545ad3"
+          }
+        },
+        {
+          "client_id": "1031092057673-19aahnqd9lcd95qbn55s6nchph17ki76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgrPmgfozRihl0fgnM-VX7S_Atscpbh5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031092057673-19aahnqd9lcd95qbn55s6nchph17ki76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
